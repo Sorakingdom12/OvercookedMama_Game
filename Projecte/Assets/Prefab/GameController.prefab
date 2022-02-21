@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1693602324937377233
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6407029347826699701}
+  - component: {fileID: 7400640617124028388}
+  m_Layer: 0
+  m_Name: GameController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6407029347826699701
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1693602324937377233}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.19082692, y: 2.817306, z: -0.33561563}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7400640617124028388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1693602324937377233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a94c890df445f0e46a186176c41914a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Recetas: {fileID: 4900000, guid: 3c64ba2a1e72300438d79d4e1076caab, type: 3}
+  bread: {fileID: 1952268610973902020, guid: a5042d501be7e5f46a7751b4fba07212, type: 3}
+  cheese: {fileID: 884336751530219503, guid: 0df506986e3cef947b3ffe39287f1611, type: 3}
+  mushroom: {fileID: 9219620635436005390, guid: 508eb152ad1654c6396dba6856d82cf9, type: 3}
+  steak: {fileID: 6901093899596471707, guid: 5297ad61bef734d6e8f3fc499959f416, type: 3}
+  lettuce: {fileID: 7651697326637909317, guid: 569ae1a62d2a842e7ac4d4c0799ec7a2, type: 3}
+  tomato: {fileID: 5356406155313265737, guid: e37448cd0f7f94b54a3cbb1dd10b7b19, type: 3}
+  sausage: {fileID: 5176717981194853943, guid: cd8d1cc6b97294b5792d0cfcfe20027a, type: 3}
+  dough: {fileID: 8926854246772986746, guid: 7e535299e95494c5e9e8018e2e84dfaf, type: 3}

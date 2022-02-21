@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - mesa
+  - Ingredient
+  - Pedido6
+  - Pedido1
+  - Pedido3
+  - Pedido2
+  - Pedido7
+  - Pedido4
+  - Pedido5
+  - Bread
+  - cuttingBoard
+  - Cheese
+  - Steak
+  - Mushroom
+  - Lettuce
+  - Sausage
+  - Tomato
+  - Dough
+  - Delivery
+  - Olla
+  - Plate
+  - Sarten
+  - SpawnPlates
+  - Horno
+  - Papelera
+  - fogon
+  - Fuego
+  - Extintor
+  - Pedido8
+  - ProgressBar
+  - Controlador
+  - ProgressBarC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2956965181
+    locked: 0
